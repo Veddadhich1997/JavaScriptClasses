@@ -6,3 +6,4 @@ console.log(typeof(+str));
 // 2. Convert Number to String
 let num = 10;
 console.log(typeof(num + " "));
+
